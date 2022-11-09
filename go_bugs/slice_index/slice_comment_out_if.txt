@@ -1,0 +1,1010 @@
+Start to analyze: 01-28 21:19:34
+block_33_2d _reflect.rawType_.Kind$invoke
+block_35_2d interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.Kind$invoke
+block_51_5f _reflect.rawType_.Elem$invoke
+block_5e_f9 _*strings.Replacer_.buildOnce$bound
+block_5e_106 _*fmt.ss_.Token$1
+block_5e_113 _*io.pipe_.CloseRead$1
+block_5e_120 _*io.pipe_.CloseWrite$1
+block_5e_13a time.LoadLocation$1
+block_67_73 fmt.init$1
+block_67_93 fmt.init$2
+block_67_b3 io.init$1
+block_6e_b3 _struct_io.Reader__.Read$invoke
+block_6e_3cd _os.unixFileHandle_.Read$invoke
+block_6e_418 _io.nopCloser_.Read$invoke
+block_6e_463 _io.eofReader_.Read$invoke
+block_70_1f interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_72_32 interface:_Close:func:___named:error__Read:func:_slice:basic:uint8__basic:int_named:error__Write:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_73_27 interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_73_81 interface:_Write:func:_slice:basic:uint8__basic:int_named:error__.Write$invoke
+block_74_1f interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_75_103 interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_77_bb interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_7e_26f _os.unixFileHandle_.Write$invoke
+block_7e_2b7 _io.discard_.Write$invoke
+block_81_29 interface:_Close:func:___named:error__Read:func:_slice:basic:uint8__basic:int_named:error__Write:func:_slice:basic:uint8__basic:int_named:error__.Write$invoke
+block_82_90 interface:_Write:func:_slice:basic:uint8__basic:int_named:error__.Write$invoke
+block_83_ce hash/crc32.castagnoliInit$1
+block_83_113 hash/crc32.ieeeInit$1
+block_83_1a4 hash/crc32.castagnoliInit$1
+block_83_1e9 hash/crc32.ieeeInit$1
+block_86_e4 interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_89_33 interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_8a_33 interface:_Read:func:_slice:basic:uint8__basic:int_named:error__.Read$invoke
+block_9e_5f _reflect.rawType_.String$invoke
+block_cc_285 interface:_Error:func:___basic:string__.$typeassert
+block_cc_2b0 interface:_Error:func:___basic:string__.Error$invoke
+block_cc_2d6 interface:_String:func:___basic:string__.$typeassert
+block_cc_301 interface:_String:func:___basic:string__.String$invoke
+block_da_328 _time.fileSizeError_.Error$invoke
+block_da_35c _syscall.Errno_.Error$invoke
+block_da_390 _reflect.badSyntax_.Error$invoke
+block_dc_131 _time.Time_.String$invoke
+block_dc_164 _reflect.rawType_.String$invoke
+block_dc_197 _reflect.Value_.String$invoke
+block_e0_10e interface:_Error:func:___basic:string__.Error$invoke
+block_e1_53 interface:_Error:func:___basic:string__.Error$invoke
+block_e2_aa interface:_Error:func:___basic:string__.Error$invoke
+block_e3_aa interface:_Error:func:___basic:string__.Error$invoke
+block_15a_c5 _os.unixFileHandle_.Read$invoke
+block_15b_c5 _os.unixFileHandle_.Write$invoke
+block_192_96 interface:_ReadRune:func:___basic:int32_basic:int_named:error__UnreadRune:func:___named:error__.ReadRune$invoke
+block_198_29 interface:_ReadRune:func:___basic:int32_basic:int_named:error__UnreadRune:func:___named:error__.UnreadRune$invoke
+block_1a9_8f strings.makeCutsetFunc$1
+block_1a9_a0 strings.makeCutsetFunc$2
+block_1a9_b1 strings.makeCutsetFunc$3
+block_1ad_55 interface:_Scan:func:_named:fmt.ScanState_basic:int32__named:error__.$typeassert
+block_1ad_802 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.Elem$invoke
+block_1ad_802 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.Kind$invoke
+block_1ad_861 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.String$invoke
+block_1ad_9c4 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.String$invoke
+block_1ad_a67 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.String$invoke
+block_1ad_ae3 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.Bits$invoke
+block_1ad_b54 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.Bits$invokeWARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:Invoked: runtime.growHeap
+WARNING:root:Invoked: runtime.setHeapEnd
+WARNING:root:End runtime.setHeapEnd
+WARNING:root:End runtime.growHeap
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573============
+WARNING:root:Invoked: _/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/snappy.Decode
+WARNING:root:Invoked: _/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/snappy.decodedLen
+WARNING:root:Invoked: encoding/binary.Uvarint
+WARNING:root:End encoding/binary.Uvarint
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:End _/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/snappy.decodedLen
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked a Go library function: runtime.lookupPanic
+WARNING:root:Current Time: 2022-01-28 21:20:52.607328
+WARNING:root:[93mruntime.lookupPanic is possible! In In file /home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/snappy/decode.go, line no: 54 to 0[0m
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:Invoked: errors.New
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:End runtime.align
+WARNING:root:End runtime.alloc
+WARNING:root:End errors.New
+WARNING:root:End _/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/snappy.Decode
+
+block_1ad_c01 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.Bits$invoke
+block_1ad_c60 interface:_Align:func:___basic:int__AssignableTo:func:_named:reflect.Type__basic:bool__Bits:func:___basic:int__Comparable:func:___basic:bool__ConvertibleTo:func:_named:reflect.Type__basic:bool__Elem:func:___named:reflect.Type__Field:func:_basic:int__named:reflect.StructField__FieldAlign:func:___basic:int__Implements:func:_named:reflect.Type__basic:bool__Key:func:___named:reflect.Type__Kind:func:___named:reflect.Kind__Len:func:___basic:int__Name:func:___basic:string__NumField:func:___basic:int__NumMethod:func:___basic:int__Size:func:___basic:uintptr__String:func:___basic:string__.Bits$invoke
+block_1ad_d4d interface:_Scan:func:_named:fmt.ScanState_basic:int32__named:error__.Scan$invoke
+block_1ae_a1 interface:_Error:func:___basic:string__.$typeassert
+block_1bb_2d _reflect.rawType_.Bits$invoke
+block_1c1_62 interface:_ReadRune:func:___basic:int32_basic:int_named:error__UnreadRune:func:___named:error__.$typeassert
+There are total 102 state(s):
+For state0, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 64,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128]
+For state1, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 16,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state2, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 32,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state3, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 144,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128]
+For state4, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 160,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 128]
+For state5, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 132,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state6, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 129,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 128]
+For state7, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 3,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128]
+For state8, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 124,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0]
+For state9, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 4,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128]
+For state10, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 129,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0]
+For state11, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 129,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128]
+For state12, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 2,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 128]
+For state13, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128]
+For state14, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 254,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state15, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 240,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 255]
+For state16, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 240,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0]
+For state17, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 248,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128]
+For state18, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 17,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state19, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 255]
+For state20, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 17,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0]
+For state21, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 248,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 255]
+For state22, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0]
+For state23, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 244,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 255]
+For state24, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 244,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 224,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 255]
+For state25, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 3]
+For state26, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state27, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 128]
+For state28, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 2]
+For state29, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 3,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state30, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 112]
+For state31, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 3,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state32, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 2,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0]
+For state33, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 188,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state34, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 254]
+For state35, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 131,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 33,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 32,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 248]
+For state36, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 240,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 127,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state37, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 255]
+For state38, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0]
+For state39, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 248,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255]
+For state40, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255]
+For state41, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0]
+For state42, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 244,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255]
+For state43, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 96,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 244]
+For state44, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 2,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0]
+For state45, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 3]
+For state46, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 254,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0]
+For state47, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 240]
+For state48, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 129,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state49, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 17,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state50, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 2,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state51, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 129]
+For state52, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 17,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 0]
+For state53, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 254,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state54, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 129,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state55, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 17,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state56, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 254]
+For state57, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 220,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state58, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 3,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state59, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 240,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state60, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 32,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state61, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255]
+For state62, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state63, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 240,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0]
+For state64, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 2]
+For state65, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0]
+For state66, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 254,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state67, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 248]
+For state68, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 244,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255]
+For state69, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 248,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0]
+For state70, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 129,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0]
+For state71, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 17,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0]
+For state72, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 1]
+For state73, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 3]
+For state74, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 2,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state75, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 172,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128]
+For state76, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 240,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state77, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 244,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state78, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 248,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state79, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 0]
+For state80, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 36,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 70,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 244,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128]
+For state81, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 64,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128]
+For state82, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 2,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0]
+For state83, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 3,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128]
+For state84, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 124,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0]
+For state85, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 240,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 99]
+For state86, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 2,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0]
+For state87, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 254,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0]
+For state88, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 3,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128]
+For state89, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 248,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255]
+For state90, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255]
+For state91, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 252,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 0]
+For state92, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 244,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 255]
+For state93, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 112]
+For state94, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 129]
+For state95, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 17]
+For state96, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 248]
+For state97, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 252]
+For state98, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 244]
+For state99, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 129,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0]
+For state100, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 17,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 0]
+For state101, return with [], a set of possible input: [scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101573 = 255,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101567 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101564 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101566 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101569 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101571 = 0,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101565 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101568 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101570 = 128,
+ scanf_/home/jikai/workspace/Wasm-SE/Wasm-samples/go_bugs/slice_index/main.go_11_18_[0]_101572 = 240]
+End of analyze: 01-28 21:21:10
+Time elapsed: 0:01:35.919471

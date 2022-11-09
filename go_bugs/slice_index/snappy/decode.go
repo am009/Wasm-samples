@@ -45,9 +45,9 @@ func Decode(dst, src []byte) ([]byte, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(dst) < dLen {
-		dst = make([]byte, dLen)
-	}
+	// if len(dst) < dLen {
+	// 	dst = make([]byte, dLen)
+	// }
 
 	var d, offset, length int
 	for s < len(src) {

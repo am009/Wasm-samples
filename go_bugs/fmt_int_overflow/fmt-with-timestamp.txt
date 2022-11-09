@@ -1,0 +1,1745 @@
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked: runtime.growHeap
+WARNING:root:Invoked: runtime.setHeapEnd
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333============
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked a Go library function: fmt.Scanf
+WARNING:root:============Initiated an scanf integer: scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334============
+WARNING:root:Invoked: runtime.stringFromBytes
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked: memcpy
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:Invoked: _/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.Sprintf
+WARNING:root:Invoked: _/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.newPrinter
+WARNING:root:Invoked: _*sync.Pool_.Get
+WARNING:root:-1
+WARNING:root:Invoked: _/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.init$1
+WARNING:root:Invoked: runtime.alloc
+WARNING:root:Invoked: runtime.align
+WARNING:root:-1
+WARNING:root:Invoked: runtime.interfaceTypeAssert
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.fmt_.init
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.fmt_.clearflags
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.pp_.doPrintf
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.fmt_.clearflags
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.pp_.argNumber
+WARNING:root:Invoked: _/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.parsenum
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:13.006537
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:13.948621
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:14.566840
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:15.125102
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:16.043963
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:16.664645
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:17.282094
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:18.147267
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:18.765565
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:19.394415
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:20.335994
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:20.977166
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:21.539877
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:22.496384
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:23.118978
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:23.753709
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:24.651520
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:25.280745
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:25.920469
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:26.825139
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:27.453250
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:28.094272
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:29.072949
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:29.635340
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333))) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:30.294261
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvmul of op1 (100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333))) and op2 (10) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:31.303821
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:31.935360
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333))) or op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333))) and op2 (Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:32.548685
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvmul of op1 (1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (10) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:33.635684
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:34.265689
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:34.966800
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvmul of op1 (1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+10*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (10) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:36.095462
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:36.661207
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (1215752192*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+10*
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (Concat(0,
+       208 +
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (1215752192*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+10*
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (Concat(0,
+       208 +
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:38.002128
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:[93mop1 (1215752192*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+10*
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+Concat(0,
+       208 +
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (10) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvmul of op1 (1215752192*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+100*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+10*
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+Concat(0,
+       208 +
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (10) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:39.140624
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 0 to 294[0m
+WARNING:root:[93mop1 (Concat(0,
+       Extract(31,
+               24,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (4294967248) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (Concat(0,
+       Extract(31,
+               24,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (4294967248) may overflow (unsigned)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:39.776587
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294, col no: 29[0m
+WARNING:root:[93mop1 (3567587328*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1215752192*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+100*
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+10*
+Concat(0,
+       208 +
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (Concat(0,
+       208 +
+       Extract(31,
+               24,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) is free, which may result in overflow![0m
+WARNING:root:[93mThe bvadd of op1 (3567587328*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94325)) +
+1215752192*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94326)) +
+1410065408*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94327)) +
+1000000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94328)) +
+100000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94329)) +
+10000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94330)) +
+1000000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94331)) +
+100000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94332)) +
+10000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94333)) +
+1000*
+Concat(0,
+       208 +
+       Extract(7,
+               0,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+100*
+Concat(0,
+       208 +
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334)) +
+10*
+Concat(0,
+       208 +
+       Extract(23,
+               16,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) and op2 (Concat(0,
+       208 +
+       Extract(31,
+               24,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) may overflow (signed)[0m
+WARNING:root:Current Time: 2022-01-28 13:58:40.414991
+WARNING:root:[93mOverflowed! In file /home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt/print.go, line no: 294 to 0[0m
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.pp_.argNumber
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.pp_.argNumber
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.pp_.argNumber
+WARNING:root:Invoked: _*_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/fmt.pp_.argNumber
+WARNING:root:Invoked: unicode/utf8.DecodeRuneInString
+WARNING:root:[93mop1 (Concat(0,
+       Extract(15,
+               8,
+               scanf_/home/warren/Wasm-SE/Wasm-samples/go_bugs/fmt_int_overflow/main.go_13_18_[0]_94334))) or op2 (75088) is free, which may result in overflow![0m
+WARNING:root:Current Time: 2022-01-28 13:58:46.195468
+WARNING:root:[93mOverflowed! In file /usr/lib/go-1.16/src/unicode/utf8/utf8.go, line no: 205 to 0[0m
+Start to analyze: 01-28 13:57:44
+Hit
+here
